@@ -1,0 +1,13 @@
+Overview:
+This project uses Artificial Intelligence and Deep Learning to generate new music sequences from MIDI music data using an LSTM (Long Short-Term Memory) neural network.
+
+Features:
+-->Collect and preprocess MIDI music data.
+-->Convert musical notes into numerical sequences.
+-->Train an LSTM model to learn musical patterns.
+-->Generate new music sequences using the trained model.
+-->Save the generated music as MIDI files
+
+Using:
+Music21: A Python library used to analyze, process, and manipulate musical notes and MIDI files.
+MIDI Utilities: Python tools used to create, edit, and save MIDI music files.
